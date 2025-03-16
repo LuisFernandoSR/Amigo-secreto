@@ -20,12 +20,12 @@ Se pueden presentar  algunos problemas como lo pueden ser:
 
 Resultado esperado:
 <h2>Se registraron nombres y se realizó el sorteo.</h2>
-![image](https://github.com/user-attachments/assets/872bf0bd-c2b0-4d0b-ab2d-16156fbae7aa)
+https://github.com/user-attachments/assets/872bf0bd-c2b0-4d0b-ab2d-16156fbae7aa
 
 <h2>No se registró ningún nombre.</h2>
-![image](https://github.com/user-attachments/assets/4309bc30-5324-4e7d-aee6-c0e770e2742d)
+https://github.com/user-attachments/assets/4309bc30-5324-4e7d-aee6-c0e770e2742d
 
 <h2>No se tiene ningún dato con que trabajar.</h2>
-![image](https://github.com/user-attachments/assets/2f1f3f59-d5f9-4afa-8388-52618ae5082a)
+https://github.com/user-attachments/assets/2f1f3f59-d5f9-4afa-8388-52618ae5082a
 
 
