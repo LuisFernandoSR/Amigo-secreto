@@ -19,13 +19,11 @@ Se pueden presentar  algunos problemas como lo pueden ser:
 *Los nombres no se actualizan en la lista: Hay que intenta recargar la página y verificar que el script creado este en el lugar correcto.
 
 Resultado esperado:
-<h2>Se registraron nombres y se realizó el sorteo.</h2>
-https://github.com/user-attachments/assets/872bf0bd-c2b0-4d0b-ab2d-16156fbae7aa
 
-<h2>No se registró ningún nombre.</h2>
+![image](https://github.com/user-attachments/assets/872bf0bd-c2b0-4d0b-ab2d-16156fbae7aa)
+
 ![image](https://github.com/user-attachments/assets/b205cc89-376f-435a-9ef3-23b9ec80374d)
 
-<h2>No se tiene ningún dato con que trabajar.</h2>
-https://github.com/user-attachments/assets/2f1f3f59-d5f9-4afa-8388-52618ae5082a
+![image](https://github.com/user-attachments/assets/1f2b013e-f7e8-4215-bdc0-8073f38e80cc)
 
 
