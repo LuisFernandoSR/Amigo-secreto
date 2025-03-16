@@ -23,7 +23,7 @@ Resultado esperado:
 https://github.com/user-attachments/assets/872bf0bd-c2b0-4d0b-ab2d-16156fbae7aa
 
 <h2>No se registró ningún nombre.</h2>
-https://github.com/user-attachments/assets/4309bc30-5324-4e7d-aee6-c0e770e2742d
+![image](https://github.com/user-attachments/assets/b205cc89-376f-435a-9ef3-23b9ec80374d)
 
 <h2>No se tiene ningún dato con que trabajar.</h2>
 https://github.com/user-attachments/assets/2f1f3f59-d5f9-4afa-8388-52618ae5082a
